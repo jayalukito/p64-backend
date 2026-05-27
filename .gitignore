@@ -1,0 +1,12 @@
+# Node modules
+node_modules/
+
+# Environment variables
+.env
+.env.*
+
+# Firebase service account
+firebase-service-account.json
+**/firebase-service-account.json
+p64-surakshasms-firebase-adminsdk-fbsvc-b251ec8c62.json
+**/p64-surakshasms-firebase-adminsdk-fbsvc-b251ec8c62.json
